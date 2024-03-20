@@ -1,0 +1,17 @@
+D:\work code\PROJECT OOP\PROJECT OOP\bin\Debug\net8.0-windows\PROJECT OOP.exe
+D:\work code\PROJECT OOP\PROJECT OOP\bin\Debug\net8.0-windows\PROJECT OOP.deps.json
+D:\work code\PROJECT OOP\PROJECT OOP\bin\Debug\net8.0-windows\PROJECT OOP.runtimeconfig.json
+D:\work code\PROJECT OOP\PROJECT OOP\bin\Debug\net8.0-windows\PROJECT OOP.dll
+D:\work code\PROJECT OOP\PROJECT OOP\bin\Debug\net8.0-windows\PROJECT OOP.pdb
+D:\work code\PROJECT OOP\PROJECT OOP\obj\Debug\net8.0-windows\PROJECT_OOP.Form1.resources
+D:\work code\PROJECT OOP\PROJECT OOP\obj\Debug\net8.0-windows\PROJECT OOP.csproj.GenerateResource.cache
+D:\work code\PROJECT OOP\PROJECT OOP\obj\Debug\net8.0-windows\PROJECT OOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\work code\PROJECT OOP\PROJECT OOP\obj\Debug\net8.0-windows\PROJECT OOP.AssemblyInfoInputs.cache
+D:\work code\PROJECT OOP\PROJECT OOP\obj\Debug\net8.0-windows\PROJECT OOP.AssemblyInfo.cs
+D:\work code\PROJECT OOP\PROJECT OOP\obj\Debug\net8.0-windows\PROJECT OOP.csproj.CoreCompileInputs.cache
+D:\work code\PROJECT OOP\PROJECT OOP\obj\Debug\net8.0-windows\PROJECT OOP.dll
+D:\work code\PROJECT OOP\PROJECT OOP\obj\Debug\net8.0-windows\refint\PROJECT OOP.dll
+D:\work code\PROJECT OOP\PROJECT OOP\obj\Debug\net8.0-windows\PROJECT OOP.pdb
+D:\work code\PROJECT OOP\PROJECT OOP\obj\Debug\net8.0-windows\PROJECT OOP.genruntimeconfig.cache
+D:\work code\PROJECT OOP\PROJECT OOP\obj\Debug\net8.0-windows\ref\PROJECT OOP.dll
+D:\work code\PROJECT OOP\PROJECT OOP\obj\Debug\net8.0-windows\PROJECT_OOP.Properties.Resources.resources
