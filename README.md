@@ -4,10 +4,13 @@
 ### วัตถุประสงค์
 #### -จุดประสงค์เพื่อบักทึกรายรับรายจ่ายเงินในแต่ละวันและสามารถดูย้อนหลังได้
 
+### ชื่อของผู้พัฒนาโปรแกรม
+#### นางสาวปาวาด คารินทา
+
 ```mermaid
 classDiagram
-    Form1 <|-- Data
-    Form1 <|-- Filecsv
+    Form1 -- Data
+    Form1 -- Filecsv
     Data <|-- Calculator
     Form1 : -void BTexpenses_Click()
     Form1 : -void BTrevenue_Click()
