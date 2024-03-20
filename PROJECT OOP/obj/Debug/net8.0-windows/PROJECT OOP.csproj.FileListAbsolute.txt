@@ -15,3 +15,4 @@ D:\work code\PROJECT OOP\PROJECT OOP\obj\Debug\net8.0-windows\PROJECT OOP.pdb
 D:\work code\PROJECT OOP\PROJECT OOP\obj\Debug\net8.0-windows\PROJECT OOP.genruntimeconfig.cache
 D:\work code\PROJECT OOP\PROJECT OOP\obj\Debug\net8.0-windows\ref\PROJECT OOP.dll
 D:\work code\PROJECT OOP\PROJECT OOP\obj\Debug\net8.0-windows\PROJECT_OOP.Properties.Resources.resources
+D:\work code\PROJECT OOP\PROJECT OOP\obj\Debug\net8.0-windows\PROJECT OOP.sourcelink.json

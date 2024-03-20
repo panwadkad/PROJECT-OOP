@@ -55,8 +55,10 @@
             Column5 = new DataGridViewTextBoxColumn();
             tbmemo = new Button();
             pictureBox1 = new PictureBox();
+            pictureBox2 = new PictureBox();
             ((System.ComponentModel.ISupportInitialize)table).BeginInit();
             ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBox2).BeginInit();
             SuspendLayout();
             // 
             // BTexpenses
@@ -297,12 +299,22 @@
             // pictureBox1
             // 
             pictureBox1.Image = (Image)resources.GetObject("pictureBox1.Image");
-            pictureBox1.Location = new Point(-15, 428);
+            pictureBox1.Location = new Point(-15, 418);
             pictureBox1.Name = "pictureBox1";
             pictureBox1.Size = new Size(125, 164);
             pictureBox1.SizeMode = PictureBoxSizeMode.Zoom;
             pictureBox1.TabIndex = 20;
             pictureBox1.TabStop = false;
+            // 
+            // pictureBox2
+            // 
+            pictureBox2.Image = (Image)resources.GetObject("pictureBox2.Image");
+            pictureBox2.Location = new Point(992, -13);
+            pictureBox2.Name = "pictureBox2";
+            pictureBox2.Size = new Size(310, 81);
+            pictureBox2.SizeMode = PictureBoxSizeMode.Zoom;
+            pictureBox2.TabIndex = 21;
+            pictureBox2.TabStop = false;
             // 
             // Form1
             // 
@@ -310,6 +322,7 @@
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.DarkGreen;
             ClientSize = new Size(1223, 569);
+            Controls.Add(pictureBox2);
             Controls.Add(pictureBox1);
             Controls.Add(tbmemo);
             Controls.Add(table);
@@ -335,6 +348,7 @@
             Load += Form1_Load;
             ((System.ComponentModel.ISupportInitialize)table).EndInit();
             ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBox2).EndInit();
             ResumeLayout(false);
             PerformLayout();
         }
@@ -367,5 +381,6 @@
         private DataGridViewTextBoxColumn Column5;
         private Button tbmemo;
         private PictureBox pictureBox1;
+        private PictureBox pictureBox2;
     }
 }
