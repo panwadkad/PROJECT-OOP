@@ -241,7 +241,6 @@
             table.RowHeadersWidth = 51;
             table.Size = new Size(805, 431);
             table.TabIndex = 18;
-            table.CellContentClick += table_CellContentClick;
             // 
             // Column1
             // 

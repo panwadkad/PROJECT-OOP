@@ -22,7 +22,7 @@ namespace PROJECT_OOP
 
             try
             {
-                File.AppendAllText(Path, sort);
+                File.AppendAllText(Path, sort);   //เขียนต่อจากไฟล์เดิม ไม่ทับไฟล์เก่า
                 return true;
             }
             catch  //จับที่มันerror

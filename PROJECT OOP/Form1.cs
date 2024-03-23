@@ -52,7 +52,7 @@ namespace PROJECT_OOP
             data.number = calculator.addcount();
             data.day = dateTime.ToString("dd/MM/yyyy");
             data.schedule = tbNOTE.Text;
-            data.revenue= (int.Parse(tbfillinprice.Text));
+            data.revenue = (int.Parse(tbfillinprice.Text));
             data.remain = calculator.Remain();
             table.Rows.Add(data.number, dateTime.ToString("dd/MM/yyyy"), tbNOTE.Text, tbfillinprice.Text, "", calculator.Remain()); ;
             tbfillinprice.Text = string.Empty;
@@ -111,11 +111,6 @@ namespace PROJECT_OOP
             tbfillinprice.Text = tbfillinprice.Text + "0";
         }
 
-        private void table_CellContentClick(object sender, DataGridViewCellEventArgs e)
-        {
-
-        }
-
         private void tbmemo_Click(object sender, EventArgs e)
         {
             bool can = filecsv.wrifile(listdata);
@@ -126,7 +121,7 @@ namespace PROJECT_OOP
             else
             {
                 MessageBox.Show("Correctly");
-                
+
             }
         }
     }

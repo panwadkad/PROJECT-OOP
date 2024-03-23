@@ -10,7 +10,7 @@ namespace PROJECT_OOP
     {
         public int count = 0;   
 
-        public int addcount()  //เป็นการแอดค่าเข้า
+        public int addcount()  //เป็นการแอดค่าเข้า   
         {
             count += 1;
             return count;
